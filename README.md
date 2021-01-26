@@ -10,3 +10,13 @@
 **Thoughts:** This is going to be a good review of Python :)
 
 **Link to work:** See beginner of repo with day 1 for work
+
+
+### Day 1: Jan 19, 2021 
+##### First assignments with python
+
+**Today's Progress**: Reviewed all basic data types in python and created a calculator for bills
+
+**Thoughts:** I left notes in the code comments. I really needa an easy to access chart for all of this.
+
+**Link to work:** See beginner of repo with day 1 for work
