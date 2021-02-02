@@ -7,8 +7,9 @@
 # ask for input for directions - use word count to check for l or r, left or right
 
 
-# pseudo code
+# pseudo code:
 
+'''
 input left or right - convert input to lower case and count the l or r as a valid characters
     if right
             print game over
@@ -24,4 +25,45 @@ input left or right - convert input to lower case and count the l or r as a vali
                     print you win
 
                     
+'''
+# start game coding:
 
+print("Welcome to Treasure Island.")
+print("Your mission is to find the treasure.")
+
+start = input("go left or go right?")
+direction = start.lower()
+
+left = start.count('l')
+right = start.count('r')
+
+if left:
+    action = input('swim or wait')
+else:
+    print('wasted!')
+
+choice = action.lower()
+
+swim = choice.count('s')
+wait = choice.count('w')
+
+if wait:
+    door = input('pick a door')
+else:
+    print('wasted!')
+
+color = door.lower()
+
+red = color.count('r')
+blue = color.count('b')
+yellow = color.count('y')
+
+
+if blue:
+    print('wasted!')
+if red:
+    print('wasted!')
+if yellow:
+    print('A winner is you!')
+else:
+    print('wasted!')
