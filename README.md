@@ -19,7 +19,7 @@
 
 **Thoughts:** I left notes in the code comments. I really needa an easy to access chart for all of this.
 
-**Link to work:** See beginner of repo with day 1 for work
+**Link to work:** See beginner  repo with day 1 for work
 
 ### Day 3: Jan 29, 2021 
 ##### conditional statements
@@ -28,4 +28,13 @@
 
 **Thoughts:** Using these more often in my day to day work seems realistic.
 
-**Link to work:** See beginner of repo with day 3 for work
+**Link to work:** See beginner  repo with day 3 for work
+
+### Day 4: Feb 04, 2021 
+##### random module
+
+**Today's Progress**: Created programs that used the random module, if else statements, inputs and other prior lessons
+
+**Thoughts:** My problem solving skills are improving as I go. This course is definitely more than a daily commitment though
+
+**Link to work:** See beginner  repo with day 4 for work
