@@ -38,3 +38,12 @@
 **Thoughts:** My problem solving skills are improving as I go. This course is definitely more than a daily commitment though
 
 **Link to work:** See beginner  repo with day 4 for work
+
+### Day 5: Feb 10, 2021 
+##### for loop module
+
+**Today's Progress**: Lessons are compounding with combinations of for loops, random module, integers and input statements. Feels like I am making small programs now
+
+**Thoughts:** 'Days' in this course are really entire modules. SOme of these lessons take hours to complete. I might do sub updates like day 5.1 so I can account for the progress along the way.
+
+**Link to work:** See beginner  repo with day 5 for work
