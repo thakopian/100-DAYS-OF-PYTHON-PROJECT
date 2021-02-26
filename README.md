@@ -47,3 +47,6 @@
 **Thoughts:** 'Days' in this course are really entire modules. SOme of these lessons take hours to complete. I might do sub updates like day 5.1 so I can account for the progress along the way.
 
 **Link to work:** See beginner  repo with day 5 for work
+
+### BREAK PERIOD
+##### learning some javascript right now
